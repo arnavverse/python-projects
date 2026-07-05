@@ -1,4 +1,15 @@
-'''SASTA CALCULATOR FOR 2 NUMBERS'''
+"""
+Simple calculator project.
+
+Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Floor Division
+- Remainder
+- Exponents
+"""
 
 x = input("enter the first number (x): ")
 y = input("enter the second number (y): ")
