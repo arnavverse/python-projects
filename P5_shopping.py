@@ -1,3 +1,30 @@
+"""
+🛒 Fruit Shopping Cart
+
+A Python mini-project that simulates a simple fruit shopping system
+based on the user's budget and selected fruit.
+
+Available Fruits:
+• Apples
+• Mangoes
+• Oranges
+• Bananas
+
+Features:
+• Displays a fruit menu with prices.
+• Accepts the user's budget and choice.
+• Verifies whether the purchase is possible.
+• Shows the remaining balance or additional amount required.
+• Handles invalid menu selections.
+
+Concepts Practiced:
+• Nested if-else
+• User input
+• Variables
+• Arithmetic operations
+• Decision making
+"""
+
 budget = int(input("ENTER YOUR BUDGET : ₹"))
 
 apple_price = 100
